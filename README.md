@@ -1,2 +1,2 @@
-# kodi1
-Kodi Build
+# plugin.program.outtalinewizard
+plugin.program.outtalinewizard
